@@ -12,7 +12,7 @@
 
 No libraries required — just plain Python.
 
-# Elise: Basit Bir Konuşmalı Sohbet Robotu
+# Elise: Basit Bir Sohbet Robotu
 
 **Elise**, yapay zekanın ilk günlerinden kalma klasik ELIZA programından esinlenerek Python'da yazılmış hafif bir sohbet robotudur. Kişisel bir proje olarak tasarlanan Elise, basit bir sohbeti sürdürebilir, duygusal ipuçlarına yanıt verebilir ve hatta adınızı hatırlayabilir.
 
